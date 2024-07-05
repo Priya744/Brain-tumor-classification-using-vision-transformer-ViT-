@@ -7,4 +7,4 @@ Vision Transformer model:
 
 Dataset:
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri 
-Brain tumor classification dataset contains 2,870 mri images for training and 394 images for testing the model.
+Brain tumor classification dataset contains 2,870 mri images for training and 394 images for testing the model. These images are divided into 4 categories: glioma tumor, meningioma tumor, pituitary tumor, and no tumor. 
